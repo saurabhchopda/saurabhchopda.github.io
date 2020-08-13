@@ -1,2 +1,2 @@
 # saurabhchopda.github.io
-Github pages
+Personal site for displaying my projects.
